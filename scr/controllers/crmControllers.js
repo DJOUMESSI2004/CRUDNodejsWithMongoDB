@@ -4,7 +4,7 @@ const contactSchema = require('../models/crmModel');
 // Creating a mongoose model using the schema
 const Contact = mongoose.model('contacts', contactSchema);
 
-// inerting into the database
+// inserting into the database
 const addNewContact = async (req, res) => {
     const newContact = new Contact(req.body);
 
