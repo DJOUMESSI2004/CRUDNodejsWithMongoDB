@@ -1,0 +1,21 @@
+API development with Nodejs
+installing express.js framework
+installing mongoose and mongodb for database modeling framework
+installing babel-cli babel-preset
+installing robomongo.org files
+https://studio3t.com/download-thank-you/?OS=win64
+
+end points also call points de terminason
+
+we are going to use the http protocol for transaction executions
+for that set, we gonna use the different calling series such Methods:  GET, POST, PUT, DELETE
+
+https://www.linkedin.com/learning/node-js-et-express-construire-des-api/proceder-a-la-configuration-initiale-du-serveur?autoSkip=true&resume=false
+
+after i will have study all the bases of building endPoints with express, i can now study this different api generators to be more productive:
+-- https://koajs.com/
+-- https://swagger.io/
+-- https://loopback.io/
+
+for the security of my api, i can explore JWT implementation in my api
+https://www.linkedin.com/learning/securiser-avec-json-web-token-jwt/signer-un-jeton?autoSkip=true&resume=false 
